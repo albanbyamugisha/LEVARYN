@@ -1,0 +1,12 @@
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
